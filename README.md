@@ -26,6 +26,12 @@ Retention? / 4-Year Plan Web App
 
 ####technology stack
   language / dev&style frameworks / database / hosting / version control / testing
+  
+- html and css (Ruby on Rails, Bootstrap, Sass) 
+- mySQL?
+- ASU server hosting
+- github version control
+
 ####planned functionality
 
   - [Product Backlog](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/backlog.md)
