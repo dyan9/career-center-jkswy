@@ -11,3 +11,6 @@ Headers/Footers
 - [header2](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/images/asu_header2.png)
 - [footer1](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/images/asu_footer1.png)
 - [footer2](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/images/asu_footer2.png)
+
+ASU Webpage Standards
+- [Web Audit Checklist](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/Web_Audit_Checklist_3.pdf)
