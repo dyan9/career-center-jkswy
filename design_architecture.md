@@ -1,6 +1,9 @@
 Design/Architecture
 -
 
+ERD
+- [ERD](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/images/erd1.png)
+
 Colors
 - [primary](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/images/asu_primary_colors.png)
 - [neutral](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/images/asu_neutral_colors.png)

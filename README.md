@@ -18,9 +18,7 @@ Retention? / 4-Year Plan Web App
 
 ###Proposal
 -
-  place Prototype/Mock-up imgs here
-  
-  explanation of design/architecture
+
 
 - [Design/Architecture](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/design_architecture.md)
 
@@ -37,3 +35,4 @@ Retention? / 4-Year Plan Web App
   - [Product Backlog](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/backlog.md)
 
 ####test/review protocol
+- [Web Audit Checklist](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/Web_Audit_Checklist_3.pdf)
