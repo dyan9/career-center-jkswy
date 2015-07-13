@@ -27,5 +27,7 @@ Retention? / 4-Year Plan Web App
 ####technology stack
   language / dev&style frameworks / database / hosting / version control / testing
 ####planned functionality
-  Product Backlog ![insert link to backlog here]()
+
+  - [Product Backlog](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/backlog.md)
+
 ####test/review protocol
