@@ -8,13 +8,13 @@ Repository for the Career Center Four Year Plan Site
 Retention? / 4-Year Plan Web App
 
 ###Team
-|Name      |email      |role      |
+|Name      |Email      |Role      |
 |----------|-----------|----------|
-|David Joplin|djoplin@asu.edu| |
-|Ahmad Kadado|ahmad.kadado@asu.edu| |
-|Olivia Sin|olivia.sin@asu.edu| |
-|Kevin Wesley|kevin.wesley@asu.edu| |
-|Diefei Yan|diefei.yan@asu.edu| |
+|David Joplin|djoplin@asu.edu|Scrum Master|
+|Ahmad Kadado|ahmad.kadado@asu.edu|Product Owner|
+|Olivia Sin|olivia.sin@asu.edu|Team Member|
+|Kevin Wesley|kevin.wesley@asu.edu|Team Member|
+|Diefei Yan|diefei.yan@asu.edu|Team Member|
 
 ###Proposal
 -
