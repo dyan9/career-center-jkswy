@@ -1,10 +1,12 @@
 Backlog (in-Progress)
 
 - [ ] ASU web standards
+- [ ] User info: ASUrite, major, grad date, gender, age, email)
 - [ ] 4-year plan: yearly checklist (what to do over the course of the year)
 - [ ] Yearly checklist tools
+- [ ] Track progress towards degree (timeline to graduation)
 - [ ] Career Link
-- [ ] SOS
+- [ ] SOS appointments link
 - [ ] upcoming events list
 
 
