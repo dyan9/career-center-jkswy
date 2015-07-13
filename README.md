@@ -22,17 +22,7 @@ Retention? / 4-Year Plan Web App
   
   explanation of design/architecture
 
-  
-  ASU Colors
-- [primary](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/asu_primary_colors.png)
-- [neutral](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/asu_neutral_colors.png)
-- [metallic](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/asu_metallic_colors.png)
-
-Headers/Footers
-- [header1](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/asu_header1.png)
-- [header2](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/asu_header2.png)
-- [footer1](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/asu_footer1.png)
-- [footer2](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/asu_footer2.png)
+- [Design/Architecture](https://github.com/asu-cis440-summer/career-center-jkswy/blob/master/design_architecture.md)
 
 ####technology stack
   language / dev&style frameworks / database / hosting / version control / testing
